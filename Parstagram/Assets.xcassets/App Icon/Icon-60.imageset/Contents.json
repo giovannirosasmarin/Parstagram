@@ -6,12 +6,36 @@
     },
     {
       "idiom" : "universal",
-      "filename" : "Icon-60@2x.png",
+      "filename" : "Icon-App-60x60@2x 19-54-41-46.png",
       "scale" : "2x"
     },
     {
       "idiom" : "universal",
-      "filename" : "Icon-60@3x.png",
+      "filename" : "Icon-App-40x40@3x 19-54-40-566.png",
+      "scale" : "3x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "Icon-App-60x60@2x.png",
+      "unassigned" : true,
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "Icon-App-40x40@3x.png",
+      "unassigned" : true,
+      "scale" : "3x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "Icon-App-60x60@3x 13-08-57-298.png",
+      "unassigned" : true,
+      "scale" : "3x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "Icon-App-60x60@3x 19-54-40-992.png",
+      "unassigned" : true,
       "scale" : "3x"
     }
   ],
